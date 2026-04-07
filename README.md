@@ -1,0 +1,2 @@
+# Blog-Dinamis
+blog dinamis
