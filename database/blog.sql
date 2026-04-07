@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 07 Apr 2026 pada 03.29
+-- Waktu pembuatan: 07 Apr 2026 pada 04.12
 -- Versi server: 10.4.32-MariaDB
 -- Versi PHP: 8.2.12
 
@@ -42,11 +42,11 @@ CREATE TABLE `artikel` (
 --
 
 INSERT INTO `artikel` (`id_artikel`, `judul`, `isi`, `tanggal`, `id_user`, `id_kategori`, `gambar`) VALUES
-(10, 'NCTOT23', 'ot23', '2026-04-06', 7, 2, '1775491795.jpg'),
+(10, 'NCTOT23', 'Mereka merupakan Boy Grup dari SM yang jumlah membernya itu banyak dan bisa bertambah member. akan tetaapi sekarang sistem itu sudah dihapus.', '2026-04-06', 7, 2, '1775491795.jpg'),
 (11, 'SMTR25', 'rooki sm25. Yang dimana mereka beranggotakan 20, mereka bersaing agar bisa debut di SM ENTERTAIMENT', '2026-04-06', 5, 1, '1775371889.jpg'),
 (15, 'NCT DREAM', 'NBF', '2026-04-07', 1, 2, '1775499340.jpeg'),
 (16, 'aespa', 'Gril grup aespa ini dari agensi SM ENTERTAIMENT, yang dimana beranggotakan 4 member. Dengan anggotanya yaitu Karina, Gisel, Winter dan Ningning. Mereka debut di gen ke-4, yang dimana pada saat itu sedang terjadi virus.', '2026-04-07', 5, 3, '1775500136.jpg'),
-(17, 'h2h', 'kgddfsdudsgjajcbye', '2026-04-07', 7, 1, '1775508554.jpg');
+(17, 'h2h', 'H2H ini grilgrup dari SM ENTERTAIMENT dimana salah satu membernya berasal dari Indonesia yaitu di Bali. Lagu-lagu mereka juga juga essy lesening, dan jika didengarkan itu langsung hafal', '2026-04-07', 7, 1, '1775508554.jpg');
 
 -- --------------------------------------------------------
 
