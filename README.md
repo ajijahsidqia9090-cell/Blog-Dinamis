@@ -63,7 +63,7 @@ blog/
 - dashboard.php → Dashboard author
 - artikel.php → Artikel milik author
 
-── koneksi.php → Koneksi database
+- koneksi.php → Koneksi database
 
 ## ⚙️ Installation
 https://github.com/ajijahsidqia9090-cell/Blog-Dinamis.git
