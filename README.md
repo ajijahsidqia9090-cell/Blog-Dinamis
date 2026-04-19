@@ -53,15 +53,15 @@ blog/
 -logout.php → Logout
 - upload/ → Folder gambar artikel
 
-── admin/
-  ── dashboard.php → Dashboard admin
-  ── artikel.php → Kelola artikel
-  ── komentar.php → Kelola komentar
-  ── user.php → Kelola user
+- admin/
+- dashboard.php → Dashboard admin
+- artikel.php → Kelola artikel
+- komentar.php → Kelola komentar
+- user.php → Kelola user
 
-── author/
-  ── dashboard.php → Dashboard author
-  ── artikel.php → Artikel milik author
+- author/
+- dashboard.php → Dashboard author
+- artikel.php → Artikel milik author
 
 ── koneksi.php → Koneksi database
 
