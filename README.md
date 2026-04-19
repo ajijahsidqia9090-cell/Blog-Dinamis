@@ -47,28 +47,23 @@ Setiap pengguna memiliki hak akses berbeda untuk mengelola sistem blog secara ef
 ## 📂 Project Structure
 
 blog/
-│
-├── index.php → Halaman utama (user/public)
-├── detail_artikel.php → Detail artikel + komentar
-├── simpan_komentar.php → Proses simpan komentar
-│
-├── login.php → Login user
-├── daftar.php → Register user
-├── logout.php → Logout
-│
-├── upload/ → Folder gambar artikel
-│
-├── admin/
-│ ├── dashboard.php → Dashboard admin
-│ ├── artikel.php → Kelola artikel
-│ ├── komentar.php → Kelola komentar
-│ ├── user.php → Kelola user
-│
-├── author/
-│ ├── dashboard.php → Dashboard author
-│ ├── artikel.php → Artikel milik author
-│
-├── koneksi.php → Koneksi database
+- index.php → Halaman utama (user/public)
+- login.php → Login user
+- daftar.php → Register user
+-logout.php → Logout
+- upload/ → Folder gambar artikel
+
+── admin/
+  ── dashboard.php → Dashboard admin
+  ── artikel.php → Kelola artikel
+  ── komentar.php → Kelola komentar
+  ── user.php → Kelola user
+
+── author/
+  ── dashboard.php → Dashboard author
+  ── artikel.php → Artikel milik author
+
+── koneksi.php → Koneksi database
 
 ## ⚙️ Installation
 https://github.com/ajijahsidqia9090-cell/Blog-Dinamis.git
