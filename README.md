@@ -13,6 +13,11 @@ Setiap pengguna memiliki hak akses berbeda untuk mengelola sistem blog secara ef
 
 ---
 
+## 🎥 Demo Video Blog Dinamis
+https://youtu.be/Hh9cb4E_0d8?si=ci8D_YJFHyX05uKE
+
+---
+
 ## 🚀 Features
 
 - 🔐 Login & Register (User, Author, Admin)
